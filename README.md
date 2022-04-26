@@ -1,2 +1,2 @@
 # gencode-form
-Source code generation by form data.
+Source code of form generation  by json.
