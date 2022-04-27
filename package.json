@@ -1,0 +1,25 @@
+{
+    "name": "gencode-form",
+    "version": "1.0.0",
+    "description": "Source code of form generation  by json.",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KesionX/gencode-form.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/KesionX/gencode-form/issues"
+    },
+    "devDependencies": {
+        "@babel/types": "^7.17.0",
+        "eslint": "^7.32.0",
+        "typescript": "^4.6.2"
+    },
+    "homepage": "https://github.com/KesionX/gencode-form#readme"
+}
