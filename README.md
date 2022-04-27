@@ -1,6 +1,6 @@
-# gencode-form
+# codegen-form
 
-Source code of form generation by json.
+Source code generation by form of json schema.
 
 ### 数据定义
 
